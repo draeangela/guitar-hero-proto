@@ -7,8 +7,8 @@
 # -------------------------------------------------------------------
 import pygame
 import sys
-from constants import *
-from matrices import create_model_matrix, create_view_matrix, create_perspective_matrix, convert_to_screen, world_to_screen
+from src.constants import *
+from src.matrices import create_model_matrix, create_view_matrix, create_perspective_matrix, convert_to_screen, world_to_screen
 import numpy as np
 
 def define_line_positions():

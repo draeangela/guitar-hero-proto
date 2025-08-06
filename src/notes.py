@@ -6,9 +6,9 @@
 # Handles note behavior, rendering, movement, and hit detection logic.
 # -------------------------------------------------------------------
 import pygame 
-from constants import *
-from matrices import world_to_screen
-from shapes import Quad
+from src.constants import *
+from src.matrices import world_to_screen
+from src.shapes import Quad
 
 print ("hello")
 # Base Note class

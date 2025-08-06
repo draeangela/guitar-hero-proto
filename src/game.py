@@ -6,11 +6,11 @@
 # -------------------------------------------------------------
 import pygame
 import sys
-from constants import *
-from matrices import world_to_screen
-from notes import ShortNote, LongNote
-from shapes import draw_lines, draw_judgment, draw_column_labels, draw_title_screen
-from key_handler import ColumnHighlighter
+from src.constants import *
+from src.matrices import world_to_screen
+from src.notes import ShortNote, LongNote
+from src.shapes import draw_lines, draw_judgment, draw_column_labels, draw_title_screen
+from src.key_handler import ColumnHighlighter
 
 class GameManager:
     def __init__(self):

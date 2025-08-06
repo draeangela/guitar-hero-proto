@@ -5,7 +5,7 @@
 # Includes model, view, world, and projection matrices
 # -------------------------------------------------------------------
 import numpy as np
-from constants import *
+from src.constants import *
 
 # LOCAL --> WORLD
 def create_model_matrix(trans_x, trans_y, trans_z):

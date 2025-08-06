@@ -5,9 +5,9 @@
 # in the Guitar Hero-style rhythm game. Highlights are shown as
 # semi-transparent rectangles over the active columns.
 # -------------------------------------------------------------
-from constants import *
-from shapes import Quad
-from matrices import world_to_screen
+from src.constants import *
+from src.shapes import Quad
+from src.matrices import world_to_screen
 
 class ColumnHighlighter:
     def __init__(self):
