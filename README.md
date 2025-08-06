@@ -31,3 +31,13 @@ guitar-hero-proto/
 └── README.md
 ```
 
+---
+## 🧾 License
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🙋‍♂️ Maintainer
+
+Drae Angela Vizcarra
+GitHub: [@draeangela](https://github.com/draeangela)
